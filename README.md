@@ -15,7 +15,7 @@ I am an aspiring developer who is passionate about building things with code and
 ### 📁 My Learning Projects
 *Right now, I am focusing on building mini-projects to test my skills. Here are a few things I've built:*
 
-*   **[Project 1 Name](Link to your project)** - A simple application built using basic HTML and CSS. It helped me learn how layout and design elements work together.
+*   **[Project 1 MybasicCode](https://drive.google.com/drive/folders/1bx2cRkbKaYpNghmlq9enF4TyQoVBy20C)** - A simple application built using basic HTML and CSS. It helped me learn how layout and design elements work together.
 *   **[Project 2 Name](Link to your project)** - A basic script / mini-game where I practiced using variables, loops, and conditional logic.
 
 ---
