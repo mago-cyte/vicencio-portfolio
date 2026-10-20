@@ -2,10 +2,10 @@
 
 I am an aspiring developer who is passionate about building things with code and learning something new every day. I love turning basic ideas into working logic!
 
-### 🚀 About Me
-- 🔭 I’m currently working on building up my foundation in coding.
-- 🌱 I’m currently learning: **HTML, CSS, and basic JavaScript / Python**.
-- 💬 Ask me about: Why I decided to learn programming!
+### About Me
+- I’m currently working on building up my foundation in coding.
+-  I’m currently learning: **HTML, CSS, and basic JavaScript / Python**.
+-  Ask me about: Why I decided to learn programming!
 - 📫 How to reach me: [crystaljanev@gmail.com]
 
 ### 🛠️ My Toolbox
