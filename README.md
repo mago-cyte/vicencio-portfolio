@@ -6,7 +6,7 @@ I am an aspiring developer who is passionate about building things with code and
 - 🔭 I’m currently working on building up my foundation in coding.
 - 🌱 I’m currently learning: **HTML, CSS, and basic JavaScript / Python**.
 - 💬 Ask me about: Why I decided to learn programming!
-- 📫 How to reach me: [Your Email or LinkedIn Link]
+- 📫 How to reach me: [crystaljanev@gmail.com]
 
 ### 🛠️ My Toolbox
 <!-- These are badges that show what you are using. Feel free to add more as you learn! -->
