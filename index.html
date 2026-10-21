@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crystal Jane Vicencio - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="logo">CV.</div>
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#highlights">Highlights</a>
+      <a href="#skills">Skills</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    
+    <!-- Hero Header Section -->
+    <section class="hero-header">
+      <div class="profile-card">
+        <div class="avatar-box">
+          <i class="fa-solid fa-user-gear avatar-icon"></i>
+        </div>
+        <div class="profile-info">
+          <span class="handle">~/crystal_vicencio</span>
+          <h1>Crystal Jane Vicencio.</h1>
+          <p class="subtitle">Computer Engineering Student</p>
+          <p class="status-tag"><span class="dot"></span> Active on GitHub · Ready to Contribute</p>
+        </div>
+      </div>
+
+      <p class="bio-text">
+        Dedicated Computer Engineering student eager to build scalable software and hardware solutions. 
+        Passionate about network engineering, embedded systems, and modern software development.
+      </p>
+
+      <!-- API Response Card (JSON View) -->
+      <div class="api-card">
+        <div class="api-header">
+          <div>
+            <span class="method">GET</span> 
+            <span class="endpoint">/api/whoami</span>
+          </div>
+          <span class="status">200 try it <i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+        </div>
+        <pre class="json-code"><code>{
+  <span class="key">"name"</span>: <span class="string">"Crystal Jane Vicencio"</span>,
+
+  <span class="key">"role"</span>: <span class="string">"BS Computer Engineering Student"</span>,
+
+  <span class="key">"focus"</span>: <span class="string">"Networking, Embedded Systems & Software"</span>,
+
+  <span class="key">"strengths"</span>: [
+    <span class="string">"C/C++"</span>, 
+    <span class="string">"Python"</span>, 
+    <span class="string">"Computer Networks"</span>, 
+    <span class="string">"Problem Solving"</span>
+  ],
+
+  <span class="key">"available"</span>: <span class="string">"Open to Opportunities / Ready to contribute"</span>
+}</code></pre>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="action-buttons">
+        <a href="mailto:your-email@example.com" class="btn btn-primary"><i class="fa-solid fa-envelope"></i> Email me</a>
+        <a href="https://github.com/mago-cyte" target="_blank" class="btn btn-icon"><i class="fa-brands fa-github"></i></a>
+      </div>
+    </section>
+
+    <hr class="divider">
+
+    <!-- About Section -->
+    <section id="about" class="section">
+      <div class="section-title">
+        <h2>About</h2>
+        <span class="section-num">01</span>
+      </div>
+      <ul class="bullet-list">
+        <li>Bachelor of Science in Computer Engineering (BSCoE) student with a strong foundation in technology, computer architecture, and networking.</li>
+        <li>Experienced in collaborative development projects like <strong>Project Nexus</strong>, emphasizing clean architecture, version control, and team coordination.</li>
+        <li>Fast learner and highly dedicated, eager to apply engineering discipline and technical skills to real-world projects.</li>
+      </ul>
+    </section>
+
+    <hr class="divider">
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+      <div class="section-title">
+        <h2>Skills & Strengths</h2>
+        <span class="section-num">02</span>
+      </div>
+
+      <div class="skill-group">
+        <h3>ENGINEERING & TECH</h3>
+        <div class="tags">
+          <span class="tag">C / C++</span>
+          <span class="tag">Python</span>
+          <span class="tag">Computer Architecture</span>
+          <span class="tag">Computer Networks</span>
+          <span class="tag">Git & GitHub</span>
+          <span class="tag">HTML & CSS</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>CORE STRENGTHS</h3>
+        <div class="tags">
+          <span class="tag tag-blue">Fast Learner</span>
+          <span class="tag tag-blue">Highly Dedicated</span>
+          <span class="tag tag-blue">Adaptable</span>
+          <span class="tag tag-blue">Team Player</span>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</body>
+  </html>
